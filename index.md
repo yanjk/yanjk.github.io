@@ -1,5 +1,5 @@
 layout: page
 title: "Jingkai Yan -- Home"
-permalink:
+permalink: /index/
 
-This is the home page.
+This is the home page.!! 
