@@ -6,3 +6,5 @@ layout: home
 ---
 
 Hello!
+
+![portrait image]({{ yanjk.github.io }}/_assets/portrait.jpg)
