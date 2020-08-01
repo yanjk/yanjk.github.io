@@ -8,4 +8,4 @@ layout: home
 Hello!
 
 <!-- ![portrait image](/assets/portrait.jpg){:height="50%" width="50%"} -->
-<img src="https://yanjk.github.io/assets/portrait.jpg" width="30" height="30">
+<img src="https://yanjk.github.io/assets/portrait.jpg" width="300" height="300">
