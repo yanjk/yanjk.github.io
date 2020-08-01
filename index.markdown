@@ -7,4 +7,4 @@ layout: home
 
 Hello!
 
-![portrait image](/_assets/portrait.jpg)
+![portrait image](/assets/portrait.jpg)
